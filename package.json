@@ -1,0 +1,40 @@
+{
+  "name": "amoled-github",
+  "displayName": "Amoled Github",
+  "description": "AMOLED Version of github's theme",
+  "version": "0.0.2",
+  "publisher": "T3M1N4L",
+  "icon": "AMOLEDGithub.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/T3M1N4L/AMOLED-Github"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "amoled",
+    "github",
+    "dark",
+    "amoled github",
+    "full black",
+    "black"
+  ],
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AMOLED Github Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Amoled Github-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
+  }
+}

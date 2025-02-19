@@ -13,6 +13,10 @@
 <p><img src="./images/go-preview.png" width="500px" alt="go preview"></p>
 <h3 id="c">C++</h3>
 <p><img src="./images/cpp-preview.png" width="500px" alt="C++ preview"></p>
+<h3 id="rust">Rust</h3>
+<p><img src="./images/rust-preview.png" width="500px" alt="rust preview"></p>
+<h3 id="ruby">Ruby</h3>
+<p><img src="./images/ruby-preview.png" width="500px" alt="ruby preview"></p>
 <h3 id="php">PHP</h3>
 <p><img src="./images/php-preview.png" width="500px" alt="php preview"></p>
 <h2 id="php">Full Desktop</h3>
